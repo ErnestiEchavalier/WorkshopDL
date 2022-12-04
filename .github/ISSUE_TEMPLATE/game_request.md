@@ -2,7 +2,7 @@
 name: Game request
 about: Request a new game
 title: 'Add support for '
-labels: Game Request
+labels: game request
 assignees: ''
 
 ---
