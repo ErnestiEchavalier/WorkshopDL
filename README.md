@@ -44,7 +44,7 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 ## WorkshopDL in comparison with similar downloaders
 | Features  |  [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) |  [Community Workshop](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) |  [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) |  [SCMD Workshop Downloader 2](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Support for SteamCMD | ✔  | ✔  | ✔  | ✔  | 
+| Support for SteamCMD | ✔  | ✔  | ❌  | ✔  | 
 | Support for SteamWebAPI  | ✔  | ❌  | ❌  | ❌ | 
 | Support for Nether API  | ✔  | ❌  | ✔  | ❌ | 
 | Support for GGNetwork API  | Cached mods  | ✔  | ❌  | ❌ | 
