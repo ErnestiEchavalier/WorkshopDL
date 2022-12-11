@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/banner_opaque_red_download.png)](https://github.com/VovoloGames/WorkshopDL/releases/download/v1.9.7/WorkshopDL.v1.9.7.zip)
+[![Banner](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/banner_opaque_red_download.png)](https://github.com/VovoloGames/WorkshopDL/releases/download/v1.9.8/WorkshopDL.v1.9.8.zip)
 
 <em>Since most of the popular workshop downloading websites have shutdown or instruct users to download & use SteamCMD, a command-line program,
 I've decided to make my own standalone workshop downloader with a GUI to make things easier.</em>
@@ -102,12 +102,12 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
->If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/b37bde0316d26295d5628cfc3830847499f3a28fd1c8e22e00fc89d3a05019bf) of the latest version.
+>If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/43da99b730479c48250ed3a61a3ce4c75e87c6781baad100b4f6f35ce3cf2a6f) of the latest version.
 </details>
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.7%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/b37bde0316d26295d5628cfc3830847499f3a28fd1c8e22e00fc89d3a05019bf)
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.8%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/43da99b730479c48250ed3a61a3ce4c75e87c6781baad100b4f6f35ce3cf2a6f)
 
 The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)  
 My email: vovologames (at) proton (dot) me
