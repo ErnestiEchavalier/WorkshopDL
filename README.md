@@ -48,6 +48,7 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 | Support for SteamWebAPI  | ✔  | ❌  | ❌  | ❌ | 
 | Support for Nether API  | ✔  | ❌  | ✔  | ❌ | 
 | Support for GGNetwork API  | Cached mods  | ✔  | ❌  | ❌ | 
+| Open-source | ✔  | ✔  | ❌  | ✔  | 
 | Mod Installer | ✔  | ~  | ~  | ~ | 
 | Workshop Collections | ✔  | ❌  | ✔  | ✔ | 
 | Support for Steam accounts | ✔  | ❌  | ✔  | ✔ | 
