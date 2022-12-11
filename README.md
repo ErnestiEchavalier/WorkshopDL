@@ -54,7 +54,7 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 | Support for Steam accounts | ✔  | ❌  | ✔  | ✔ | 
 | URL Auto-Detection from clipboard | ✔  | ❌  | ❌  | ❌ | 
 | Automatic support for 1GB+ mods (Through SteamCMD) | ✔  | ❌  | ❌  | ❌ | 
-| Automaticly downloads and extracts SteamCMD | ✔  | ✔ (Pre-packaged)  | ✔ (Pre-packaged)  | ❌ | 
+| Automaticly downloads and extracts SteamCMD | ✔  | ✔ (Pre-packaged)  | ❌ | ❌ | 
 | Automatic disposal of steamcmd's temporary files (They can exceed 20gb in size, if never cleared) | ✔  | ❌  | ❌  | ❌ |
 ###### Updated 2022/12/11
 
