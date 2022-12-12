@@ -44,11 +44,11 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 ## WorkshopDL in comparison with similar downloaders
 | Features  |  [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) |  [Community Workshop](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) |  [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) |  [SCMD Workshop Downloader 2](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Open-source | ✔  | ✔  | ❌  | ✔  | 
 | Support for SteamCMD | ✔  | ✔  | ❌  | ✔  | 
 | Support for SteamWebAPI  | ✔  | ❌  | ❌  | ❌ | 
 | Support for Nether API  | ✔  | ❌  | ✔  | ❌ | 
 | Support for GGNetwork API  | Cached mods  | ✔  | ❌  | ❌ | 
-| Open-source | ✔  | ✔  | ❌  | ✔  | 
 | Mod Installer | ✔  | ~  | ~  | ~ | 
 | Workshop Collections | ✔  | ❌  | ✔  | ✔ | 
 | Support for Steam accounts | ✔  | ❌  | ✔  | ✔ | 
@@ -120,7 +120,7 @@ My email: vovologames (at) proton (dot) me
 
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.X)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.  
-<em>Previous version will work too, but they might mess the layer order.</em>
+<em>Previous versions will work too, but they might mess the layer order.</em>
 
 #
 ###### <em>WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>
