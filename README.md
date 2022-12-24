@@ -105,7 +105,8 @@ Other games might work too, but it is not guaranteed.
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
 >If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/d9d8306339ad71f6e941cdc5426ab5fefdfcfcb3cee8e54780e703d6c1e1ac77) of the latest version.  
-<em>Note: it looks like a single garbage anti-virus marks WorkshopDL as suspicious because it contacts raw.githubusercontent.com to check for updates and to update the supported games list.</em>
+
+<em>Note: it looks like a single garbage anti-virus marks WorkshopDL as suspicious because it contacts raw.githubusercontent.com to check for updates and to update the supported games list. This is a false-positive. I've send an email to the company that owns said anti-virus. Hopefully they will fix it.</em>
 </details>
 
 # Miscellaneous
