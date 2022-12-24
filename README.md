@@ -104,12 +104,13 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
->If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/d9d8306339ad71f6e941cdc5426ab5fefdfcfcb3cee8e54780e703d6c1e1ac77) of the latest version.
+>If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/d9d8306339ad71f6e941cdc5426ab5fefdfcfcb3cee8e54780e703d6c1e1ac77) of the latest version.  
+<em>Note: it looks like a single garbage anti-virus marks WorkshopDL as suspicious because it contacts raw.githubusercontent.com to check for updates and to update the supported games list.</em>
 </details>
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.9%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/d9d8306339ad71f6e941cdc5426ab5fefdfcfcb3cee8e54780e703d6c1e1ac77)
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.9%20Clean%20(False%20positive)-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/d9d8306339ad71f6e941cdc5426ab5fefdfcfcb3cee8e54780e703d6c1e1ac77)
 
 The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)  
 My email: vovologames (at) proton (dot) me
