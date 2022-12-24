@@ -1,2 +1,2 @@
-Version 1.9.8
-[*] Fixed support for the Nether API.
+Version 1.9.9
+[*] Added an option to keep the appworkshop .acf files.
