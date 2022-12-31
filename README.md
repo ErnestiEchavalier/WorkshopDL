@@ -23,6 +23,9 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 # What is WorkshopDL?
 It is a Steam workshop downloader. Do you own a game on a different platform than Steam (Like GOG or the Epic Games Store) and you always wanted to use mods from the Steam workshop? WorkshopDL allows you to download mods from the Steam workshop for free! It currently supports more than 900+ games!
 
+###### <em>Note 1: For certain garry's mod addons you must use SteamWebAPI instead of SteamCMD!
+###### Note 2: For some games, you might need to manually add the file extension to the mod.</em>
+
 ## Features
 - Very easy to use.
 - User-friendly GUI.
@@ -38,8 +41,6 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 - The program is self-contained. No setups, no bloat.
 - It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
 - Automatically clears leftover files from canceled downloads and corrupted files, that occupy free space.
-
-<em>Note: For some games, you might need to manually add the file extension to the mod.</em>
 
 ## WorkshopDL in comparison with similar downloaders
 | Features  |  [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) |  [Community Workshop](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) |  [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) |  [SCMD Workshop Downloader 2](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2) |
